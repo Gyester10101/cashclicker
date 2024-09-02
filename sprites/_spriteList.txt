@@ -1,1 +1,1 @@
-["Bullet", "Enemy", "Gun", "backround", "button","healthBar", "loading", "music", "options", "titlesreen", "transition"]
+["Bullet", "Enemy", "Gun", "backround","button", "healthBar", "loading", "music", "options", "titlesreen", "transition"]
