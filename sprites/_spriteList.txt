@@ -1,1 +1,1 @@
-["Bullet", "Enemy", "Gun", "backround", "button", "healthBar", "loading", "music", "options", "titlescreen", "transition"]
+["newsletter","bestiary","TITLE","gun","gunbullet","turretbullet","powerbar","upgrades","forebackround","backround","cursor","health","fade","healthBar","projectileeffect","payout","DEATH IMMINENT","TIMER","TIMEFADE","game over","gameoverstats","CPS","boom!","PAUSE","helpful tip","turret","money","thumbnail","COMBO!2","enemy","tutorial","button"]
