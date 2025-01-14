@@ -1,1 +1,1 @@
-["music","titlescreen","transition","backround","options","savedata","GameManager","gameover","healthBar","Cursor","pausemenu","debug","THREAT","legend","credits","ultimate","Enemy","Bullet","Unit","tutorial","particles","gameUI","button","Upgrades","modifiers","Gun"]
+["music","savedata","modifiers","credits","legend","Cursor"]
